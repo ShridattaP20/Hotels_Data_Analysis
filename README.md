@@ -1,6 +1,6 @@
 # Hotels_Data_Analysis
 
-https://nbviewer.org/github/ShridattaP20/Hotels_Data_Analysis/blob/main/AtliQ-Hotels%20Data%20Analysis.ipynb
+Link: [Plotly Graphs](https://nbviewer.org/github/ShridattaP20/Hotels_Data_Analysis/blob/main/AtliQ-Hotels%20Data%20Analysis.ipynb)
 
 ## Problem Statement:
 Atliq Grands, a leading player in India's hotel industry, is currently facing challenges with rising competition and declining revenue. The company is also experiencing a loss of market share. To combat these challenges, the management team has decided to harness data and strategic insights. With limited internal expertise in data analysis, they have sought external support to assess the situation, deliver actionable insights, and develop effective strategies for customer retention and revenue growth.
